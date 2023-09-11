@@ -8,7 +8,7 @@ import Img1 from '../assets/img/new/frontview.JPG'
 import Img2 from '../assets/img/heroSlider/poolnight.JPG'
 import Img3 from '../assets/img/heroSlider/flower.JPG'
 import Img4 from '../assets/img/heroSlider/barroyal.JPG'
-import Img5 from '../assets/img/heroSlider/conference.JPG'
+
 
 import { Link } from 'react-scroll';
 
