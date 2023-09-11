@@ -6,6 +6,7 @@ import Interior from '../components/Interior';
 
 import ImageSlider from '../components/ImageSlider';
 import Contact from '../components/Contact';
+import Plan from '../components/Plan';
 
 const Home = () => {
   return (
@@ -19,7 +20,7 @@ const Home = () => {
    </div>
   <Rooms/>
   <Interior/>
-
+  <Plan/>
   <ImageSlider/>
   <Contact/>
   </>

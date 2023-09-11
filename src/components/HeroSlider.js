@@ -39,11 +39,7 @@ const slides = [
     btnText: 'See our rooms',
   },
 
-  {
-    title: 'Your Luxury Hotel For Vacation',
-    bg: Img5,
-    btnText: 'See our rooms',
-  },
+
 
  
 
